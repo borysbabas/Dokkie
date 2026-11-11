@@ -1,6 +1,6 @@
 # Dokkie
 
-![Thumbnail](https://github.com/Raadfxrd/Dokkie-school/blob/main/wwwroot/assets/images/Dokkie_Logo.png?raw=true)
+![Thumbnail](https://github.com/borysbabas/Dokkie-school/blob/main/wwwroot/assets/images/Dokkie_Logo.png?raw=true)
 
 Dokkie School is a group payment platform, inspired by the Dutch Tikkie app. It allows users to easily manage shared expenses within groups. This was my first-ever project, and it’s built with a focus on simplicity and ease of use for group transactions. 
 
